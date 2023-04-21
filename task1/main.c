@@ -5,11 +5,11 @@ int main()
 	float a,i,y;
 	double x;
 	//a=M_E;
-	//a=M_PI;
+	a=M_PI;
     x=0;//设置x的初始值为0
 	float h=0.001;//定义步长
-	printf("请输入a的值");
-	scanf("%f",&a);
+	//printf("请输入a的值");
+	//scanf("%f",&a);
 	printf("x         y\n");
 	y=a;//定义y在x为0的值为a
 	printf("%lf  ",x);
